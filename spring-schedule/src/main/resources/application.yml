@@ -1,0 +1,18 @@
+server:
+  port: 10002
+
+spring:
+  application:
+    name: spring-schedule
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: spring-config
+      name: schedule
+      profile: dev
+      label: master
+
+
+
+

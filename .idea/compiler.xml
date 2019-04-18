@@ -7,7 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-common" />
-        <module name="spring-config" />
+        <module name="spring-config-server" />
         <module name="spring-eureka-server" />
         <module name="spring-gateway" />
         <module name="spring-schedule" />
